@@ -199,7 +199,7 @@ brew install poppler
 ```
 
 **Windows:**  
-- Download [Poppler for Windows]([http://blog.alivate.com.au/poppler-windows/](https://github.com/oschwartz10612/poppler-windows)) or from [the official releases](https://github.com/oschwartz10612/poppler-windows/releases/).
+- Download [Poppler for Windows](http://blog.alivate.com.au/poppler-windows/](https://github.com/oschwartz10612/poppler-windows) or from [the official releases](https://github.com/oschwartz10612/poppler-windows/releases/).
 - Extract the downloaded ZIP (e.g., to `C:\poppler`).
 - Add the `bin` folder (e.g., `C:\poppler\bin`) to your Windows PATH environment variable.
   - You can do this via Control Panel → System → Advanced system settings → Environment Variables.
